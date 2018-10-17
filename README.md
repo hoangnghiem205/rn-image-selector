@@ -26,7 +26,7 @@ Nếu link lỗi thì làm theo cách thủ công trong hướng dẫn của th�
 
 ## DEMO
 
-[![Image from Gyazo](https://i.gyazo.com/981a7b269b81e956ae60605c3f88ab62.gif)](https://gyazo.com/981a7b269b81e956ae60605c3f88ab62)
+[![Demo](demo/1.gif)](https://gyazo.com/981a7b269b81e956ae60605c3f88ab62)
 
 ## Hướng dẫn sử dụng
 
